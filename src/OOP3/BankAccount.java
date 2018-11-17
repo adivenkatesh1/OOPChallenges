@@ -12,7 +12,7 @@ package OOP3;
 public class BankAccount implements Account, Needs {
    private double balance;
    private String name;
-    
+   
     
     public void deposit(double amt){
         
